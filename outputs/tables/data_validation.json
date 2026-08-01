@@ -1,0 +1,28 @@
+{
+  "rows": 58,
+  "columns": 12,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "unique_dates": 29,
+  "group_counts": {
+    "control": 29,
+    "experiment": 29
+  },
+  "complete_date_pairs": true,
+  "date_start": "2019-01-01",
+  "date_end": "2019-01-29",
+  "group_date_summary": {
+    "min": {
+      "control": "2019-01-01",
+      "experiment": "2019-01-01"
+    },
+    "max": {
+      "control": "2019-01-29",
+      "experiment": "2019-01-29"
+    },
+    "nunique": {
+      "control": "29",
+      "experiment": "29"
+    }
+  }
+}

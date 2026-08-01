@@ -1,0 +1,3 @@
+﻿method,t_stat,p_value,conclusion_alpha_005
+Welch independent-samples t-test,-0.07728616692818668,0.9386715274320316,not significant
+Paired t-test by date,-4.247583846321442,0.00021564303983362577,significant
