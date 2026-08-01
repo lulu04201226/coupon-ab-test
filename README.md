@@ -4,6 +4,10 @@
 
 **[▶ 在线体验 Streamlit Dashboard](https://coupon-ab-test-d6qpfw6iglei2h8dxn2qsq.streamlit.app/)**
 
+> **访问提示：** Streamlit Community Cloud 免费应用可能在长时间无人访问后休眠。首次打开如出现休眠页，请点击 **“Yes, get this app back up!”**，等待约 30–60 秒即可进入。
+
+![Streamlit Dashboard 首屏预览](assets/dashboard-preview.png)
+
 > **决策结论：不建议直接推广当前优惠券方案。** 实验组的完成率和取消率有所改善，但请求数与订单数没有显著增长，GMV、客单价和补贴效率反而显著下降。
 
 ## 项目亮点
