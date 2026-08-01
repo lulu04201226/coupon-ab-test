@@ -2,6 +2,8 @@
 
 这是主项目的轻量级交互展示层。Dashboard 使用 `data/test.xlsx`，按日期实时重算配对指标与统计检验，适合部署到 Streamlit Community Cloud 作为求职作品集。
 
+**在线体验：[打开 Dashboard](https://coupon-ab-test-d6qpfw6iglei2h8dxn2qsq.streamlit.app/)**
+
 ## 功能
 
 - GMV、完成率、取消率、客单价和优惠券成本 KPI 卡片

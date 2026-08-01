@@ -2,6 +2,8 @@
 
 基于 29 天日期级配对实验数据，评估“提高优惠券力度是否值得推广”。项目覆盖实验结构还原、业务指标诊断、配对检验、稳健性验证、功效分析与交互式 Dashboard。
 
+**[▶ 在线体验 Streamlit Dashboard](https://coupon-ab-test-d6qpfw6iglei2h8dxn2qsq.streamlit.app/)**
+
 > **决策结论：不建议直接推广当前优惠券方案。** 实验组的完成率和取消率有所改善，但请求数与订单数没有显著增长，GMV、客单价和补贴效率反而显著下降。
 
 ## 项目亮点
@@ -119,6 +121,8 @@
 ## 交互式 Dashboard
 
 [`dashboard/app.py`](dashboard/app.py) 提供轻量级 Streamlit 展示层，包括：
+
+**在线地址：[coupon-ab-test Dashboard](https://coupon-ab-test-d6qpfw6iglei2h8dxn2qsq.streamlit.app/)**
 
 - 5 张核心 KPI 卡片
 - 日期范围全局联动筛选
