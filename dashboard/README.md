@@ -28,6 +28,6 @@ streamlit run dashboard/app.py
 2. 点击 **Create app**，选择 `coupon-ab-test` 仓库和 `main` 分支。
 3. **Main file path** 填写 `dashboard/app.py`。
 4. 点击 **Deploy**。平台会读取 `dashboard/requirements.txt` 并安装依赖。
-5. 部署完成后，将公开应用链接补充到主项目 README 和飞书项目报告中。
+5. 部署完成后，将公开应用链接补充到仓库首页 README。
 
 本项目使用仓库内的静态 Excel 文件，不需要配置 Secrets、数据库或外部 API。
