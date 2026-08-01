@@ -27,6 +27,10 @@
 coupon-ab-test/
 ├─ data/
 │  └─ test.xlsx
+├─ dashboard/
+│  ├─ app.py
+│  ├─ requirements.txt
+│  └─ README.md
 ├─ notebooks/
 │  └─ 01_didi_ab_test_analysis.ipynb
 ├─ src/
@@ -48,6 +52,13 @@ coupon-ab-test/
 pip install -r requirements.txt
 python src/run_analysis.py
 jupyter nbconvert --execute --to notebook --inplace notebooks/01_didi_ab_test_analysis.ipynb
+```
+
+交互式 Dashboard：
+
+```bash
+pip install -r dashboard/requirements.txt
+streamlit run dashboard/app.py
 ```
 
 ## 项目报告
